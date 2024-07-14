@@ -6,7 +6,7 @@
 typedef int SLDateType;
 typedef struct SeqList
 {
-	SLDateType* a;
+	SLDateType* arr;
 	int size;//有效数据个数
 	int capacity;//空间大小
 }SL;
@@ -18,11 +18,14 @@ void SLInit(SL* ps);
 void SLDestroy(SL* ps);
 //打印  
 void SLPrint(SL* ps);
-//尾插
+//插入数据
 void SLPushBack(SL* ps, SLDateType x);
-//头插
 void SLPushFront(SL* ps, SLDateType x);
-//尾删
-void SLPopFront(SL* ps);
-//头删
+//删除数据
 void SLPopBack(SL* ps);
+void SLPopFront(SL* ps);
+//指定位置插入删除
+void SLInsert(SL* ps, SLDateType x, int pos);
+void SLErase(SL* ps, int pos);
+//查找数据
+void SLFind(SL* ps, SLDateType x);
