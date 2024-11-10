@@ -9,10 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AE4D66C9-DA1D-4FAB-A8FE-BCC0E95290EB}|test\\test.vcxproj|E:\\code\\C_practice\\test_10.vector\\test\\test\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AE4D66C9-DA1D-4FAB-A8FE-BCC0E95290EB}|test\\test.vcxproj|solutionrelative:test\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE4D66C9-DA1D-4FAB-A8FE-BCC0E95290EB}|test\\test.vcxproj|E:\\code\\C_practice\\test_10.vector\\test\\test\\vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AE4D66C9-DA1D-4FAB-A8FE-BCC0E95290EB}|test\\test.vcxproj|solutionrelative:test\\vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,24 +28,11 @@
               "RelativeDocumentMoniker": "test\\vector.h",
               "ToolTip": "E:\\code\\C_practice\\test_10.vector\\test\\test\\vector.h",
               "RelativeToolTip": "test\\vector.h",
-              "ViewState": "AgIAABwAAAAAAAAAAAAcwB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAANgAAAAAAAAAAAAAAKAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-02T15:08:41.691Z",
               "IsPinned": true,
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "vector.cpp",
-              "DocumentMoniker": "E:\\code\\C_practice\\test_10.vector\\test\\test\\vector.cpp",
-              "RelativeDocumentMoniker": "test\\vector.cpp",
-              "ToolTip": "E:\\code\\C_practice\\test_10.vector\\test\\test\\vector.cpp",
-              "RelativeToolTip": "test\\vector.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-02T15:08:13.356Z",
-              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -63,9 +46,10 @@
               "RelativeDocumentMoniker": "test\\test.cpp",
               "ToolTip": "E:\\code\\C_practice\\test_10.vector\\test\\test\\test.cpp",
               "RelativeToolTip": "test\\test.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-17T10:40:09.966Z"
+              "WhenOpened": "2024-10-17T10:40:09.966Z",
+              "EditorCaption": ""
             }
           ]
         }

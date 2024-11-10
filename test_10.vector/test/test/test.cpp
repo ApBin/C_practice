@@ -46,11 +46,25 @@ void test2()
 		std::cout << e << " ";
 	}
 	std::cout << std::endl;
+
+	v1.resize(15, 1);
+	for (auto e : v1)
+	{
+		std::cout << e << " ";
+	}
+	std::cout << std::endl;
+
+	v1.resize(5);
+	for (auto e : v1)
+	{
+		std::cout << e << " ";
+	}
+	std::cout << std::endl;
 }
 
 int main()
 {
-	test1();
-	//test2();
+	//test1();
+	test2();
 	return 0;
 }
